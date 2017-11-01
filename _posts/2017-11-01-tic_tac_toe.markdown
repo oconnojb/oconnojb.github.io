@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "TIC TAC TOE"
-date:       2017-11-01 15:45:36 +0000
+date:       2017-11-01 11:45:37 -0400
 permalink:  tic_tac_toe
 ---
 
 ## A JS ATTEMPT
-After my first endeavor into coding, I began working through Flatiron’s bootcamp prep course in anticipation of applying. I had already finished the bootcamp prep Javascript course, and had started work on the Ruby course which builds to a working game of tic-tac-toe.
+![](https://alphabetletters.org/alphabet-letter-downloads/decorative-letters/256/alphabet-letter-a.jpg)fter my first endeavor into coding, I began working through Flatiron’s bootcamp prep course in anticipation of applying. I had already finished the bootcamp prep Javascript course, and had started work on the Ruby course which builds to a working game of tic-tac-toe.
 
 As I was working through the steps that worked on building the helper methods that would facilitate the game’s flow, I began to become aware of the direction that the game was headed in. Even though I did not have the skills in Ruby to codify it, the steps made logical sense. And I bet I could do it in Javascript, using only what I learned from the bootcamp prep, and a touch of HTML and CSS I had already picked up online. To my surprise, it worked! *(I coded it on codepen.io which has windows for HTML, CSS, and JS already open above a site preview)*. [This link](https://codepen.io/oconnojb/full/BwWKWo/) will let you play the game with a friend! 
 
