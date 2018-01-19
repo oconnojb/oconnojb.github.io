@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "A New Adventure"
-date:       2017-10-11 15:34:00 +0000
+date:       2017-10-11 11:34:01 -0400
 permalink:  a_new_adventure
 ---
 
 
-![](http://static.greatbigcanvas.com/images/square/bridgeman-art-library/decorated-letter-t-from-le-moyen-age-et-la-renaissance-by-paul-lacroix,2328766.jpg?max=128)he first day I sat down and started learning to code, I was almost late to work. Work, at that time, was as an elementary music teacher, part time. I was surrounded by older, competant teachers. Some had been at the school for over twenty years. Twenty years doing the same thing, just with a different set of students. They seemed trapped. I didn't want that. But what do I want?
+The first day I sat down and started learning to code, I was almost late to work. Work, at that time, was as an elementary music teacher, part time. I was surrounded by older, competant teachers. Some had been at the school for over twenty years. Twenty years doing the same thing, just with a different set of students. They seemed trapped. I didn't want that. But what do I want?
 
 I want something that can afford me more opportunities. I want to be continuiously learning new things, and learning how to apply them in new ways. I want a career path that has more than one job opening in a given town. I want to have a higher earning potential so I can afford to do the things I love. I want a job that I enjoy doing.
 
