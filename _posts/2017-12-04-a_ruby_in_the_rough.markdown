@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "a RUBY in the rough"
-date:       2017-12-04 18:13:53 +0000
+date:       2017-12-04 13:13:53 -0500
 permalink:  a_ruby_in_the_rough
 ---
 
@@ -265,7 +265,7 @@ end
 
 To make use of this method, I call it with the number I want to pass it in the parentheses. `add_two(6)` will return `8`.
 
-Back to #say_hi, I am realizing this method's purpose isn't very broad. Besides, it's much more posite to refer to people by name. I can code a new method that will add the name to the greeting by passing the name to the method as an argument. But, in order to utizize that argument in my solution, I need to use something called "string interpolation". Inside a string, Ruby allows us to access variables by wrapping them in `#{variable_here}` Here, I'll make a more polite greeting method. What will this method output if I call it with `greeting("Mary")`?
+Back to #say_hi: I am realizing it's much more polite to refer to people by name. I can code a new method that will add the name to the greeting by passing the name to the method as an argument. But, in order to utizize that argument in my solution, I need to use something called "string interpolation". Inside a string, Ruby allows us to access variables by wrapping them in `#{variable_here}` Here, I'll make a more polite greeting method. What will this method output if I call it with `greeting("Mary")`?
 
 ```
 def greeting(name)
@@ -281,20 +281,20 @@ end
 What will the following code output?
 
 ```
-array = [2, 5, 7, 9, 1, 4, 6, 10, 3, 8]
-re_array = array.sort
-
-def challenge(argument)
-  twist = 2
-  puts "I am #{argument[twist]} years old!"
-end
-
-challenge(re_array)
+1. array = [2, 5, 7, 9, 1, 4, 6, 10, 3, 8]
+2. re_array = array.sort
+3.
+4. def challenge(argument)
+5.   twist = 2
+6.   puts "I am #{argument[twist]} years old!"
+7. end
+8.
+9. challenge(re_array)
 ```
 
 The call `challenge(re_array)` will output `I am 3 years old!`. Why? Let's break it down, line by line:
 1. sets the variable `array` equal to a jumble of numbers
-2. sets a new variable `re_array` equal to `array` sorted *[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]*
+2. sets a new variable `re_array` equal to `array` sorted: *[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]*
 3. A blank line :)
 4. defines a new method `challenge` with an argument 
 5. defines a variable `twist` equal to the number `2`
